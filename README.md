@@ -1,12 +1,9 @@
-
 # Swopy Network Tool
 
 ![Swopy Network](https://img.shields.io/badge/Swopy-Network-blue)
 ![Version](https://img.shields.io/badge/Version-1.2-green)
 ![Python](https://img.shields.io/badge/Python-3.6%2B-yellow)
 ![License](https://img.shields.io/badge/License-Open%20Source-brightgreen)
-
-![ultra-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/96014bf9-d185-4b00-9ffc-ad23525587d3)
 
 ## Overview
 
