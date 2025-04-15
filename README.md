@@ -4,8 +4,8 @@
 ![Version](https://img.shields.io/badge/Version-1.2-green)
 ![Python](https://img.shields.io/badge/Python-3.6%2B-yellow)
 ![License](https://img.shields.io/badge/License-Open%20Source-brightgreen)
+![Ekran görüntüsü 2025-04-15 030524](https://github.com/user-attachments/assets/f9a53ef6-734f-47be-907f-504ff850005f)
 
-![ultra-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/79fdb414-f6b3-492b-b3c0-12c40f89c209)
 
 ## Overview
 
@@ -25,7 +25,7 @@ Swopy Network offers the following modules:
 8. **Phone Device Scanner** - Specifically detects and analyzes mobile devices on your network
 
 ## Installation
-
+![ultra-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/79fdb414-f6b3-492b-b3c0-12c40f89c209)
 ### Prerequisites
 
 - Python 3.6 or higher version
